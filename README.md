@@ -1,13 +1,8 @@
 
-<center>
-<div style="border:1px solid; padding:20px; width:300px;" >
-<img src="./images/blog-icon.png" width="50" height="50">  <br>
-<h3> EUNJI KIM </h3>
-<b>Machine Learning Developer</b>  <br>
-<img src="./images/github.png" align="middle" width="18" height="17"> <a href="https://github.com/KEJdev">  https://github.com/KEJdev </a>   <br>
-<img src="./images/email.png" align="middle" width="18" height="17"><a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
-</div>
-</center>
+<h4>EUNJI KIM</h4>
+
+
+안녕하세요! 제 Github를 찾아주셔서 감사합니다. 저는 머신러닝 개발자입니다. 아직 배우고자 하는 것이 많아 Repo를 마구 생성하며 작은 프로젝트를 많이 하고 있으며, 함께 프로젝트나 스터디 하는 것을 좋아하기 때문에 언제든 연락주세요! 
 
 
 <br>
@@ -22,31 +17,19 @@
 
 
 <br>
-<p><img src="./images/console-icon.png" align="middle"  width="17" height="17">   SKILLS & PROFICIENCY</p>
+<p><img src="./images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
 
 
-**PYTHON**
-<div class="progress">
-  <div class="progress-bar bg-warning" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
-</div>
+* Python (intermediate)
+* R (intermediate)
+* JAVA (intermediate)
+* SQL & PLSQL (beginner)
+* Linux (beginner)
+* Go(intermediate)
 
-**R**
-<div class="progress">
-  <div class="progress-bar bg-success" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
-</div>
 
-**JAVA**
-<div class="progress">
-  <div class="progress-bar bg-info" role="progressbar"  style="width: 60%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">60%</div>
-</div>
+<br>
+<p><img src="./images/email.png" align="middle"  width="17" height="17">  How to reach me </p>
 
-**SQL & PLSQL**
-<div class="progress">
-  <div class="progress-bar bg-danger" role="progressbar" style="width: 60%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">60%</div>
-</div>
-
-**Linux**
-<div class="progress">
-  <div class="progress-bar bg-dark" role="progressbar"  style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-</div>
-
+* <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
+* <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
