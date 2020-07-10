@@ -1,4 +1,10 @@
 
+<!DOCTYPE html>
+ <html> 
+ <head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+ </head> 
+
+
 <h4>EUNJI KIM</h4>
 
 
@@ -17,7 +23,7 @@
 
 
 <br>
-<p><img src="./KEJdev/KEJdev/blob/master/images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
+<p><img src="./images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
 
 
 * Python (intermediate)
@@ -29,7 +35,7 @@
 
 
 <br>
-<p><img src="./images/email.png" align="middle"  width="17" height="17">  How to reach me </p>
+<i class="far fa-envelope"></i>  How to reach me 
 
 * <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
 * <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
