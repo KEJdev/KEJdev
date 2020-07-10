@@ -24,7 +24,7 @@
 * JAVA (intermediate)
 * SQL & PLSQL (beginner)
 * Linux (beginner)
-* Go(intermediate)
+* Go(beginner)
 
 
 <br>
