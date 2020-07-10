@@ -17,7 +17,7 @@
 
 
 <br>
-<p><img src="./KEJdev/blob/master/images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
+<p><img src="./KEJdev/KEJdev/blob/master/images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
 
 
 * Python (intermediate)
