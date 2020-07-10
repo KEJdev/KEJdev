@@ -1,18 +1,11 @@
-
-<!DOCTYPE html>
- <html> 
- <head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
- </head> 
-
-
-<h4>EUNJI KIM</h4>
+<h4>EUNJI KIM ♪</h4>
 
 
 안녕하세요! 제 Github를 찾아주셔서 감사합니다. 저는 머신러닝 개발자입니다. 아직 배우고자 하는 것이 많아 Repo를 마구 생성하며 작은 프로젝트를 많이 하고 있으며, 함께 프로젝트나 스터디 하는 것을 좋아하기 때문에 언제든 연락주세요! 
 
 
 <br>
-<p><img src="./images/PROJECTS.png" align="middle"  width="17" height="17">   PROJECTS & COMPETITION</p>
+★ PROJECTS & COMPETITION</p>
 
 
 - 2018 네이버 해커톤 결승 진출 (40등 中 14등)
@@ -23,7 +16,7 @@
 
 
 <br>
-<p><img src="./images/console-icon.png" align="middle"  width="17" height="17"> Language</p>
+★ Language</p>
 
 
 * Python (intermediate)
@@ -35,7 +28,8 @@
 
 
 <br>
-<i class="far fa-envelope"></i>  How to reach me 
+★ How to reach me 
 
 * <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
 * <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
+
