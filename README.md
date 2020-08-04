@@ -1,10 +1,20 @@
 <h4>EUNJI KIM ♪</h4>
 
+### Hi! I'm EUNJI  👋
 
-안녕하세요! 제 Github를 찾아주셔서 감사합니다. 저는 머신러닝 개발자입니다. 아직 배우고자 하는 것이 많아 Repo를 마구 생성하며 작은 프로젝트를 많이 하고 있습니다. 스터디나 프로젝트를 함께 하고 싶다면, 언제든 메일 주세요. :)
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/HTML-262%20commits-palevioletred.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/CSS-188%20commits-skyblue.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Python-57%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/R-5%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/JavaScript-188%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Java-16%20commits-orange.svg" alt=""></a>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KEJdev&show_icons=true&theme=dark)
+
+
 
 <br>
-★ PROJECTS & COMPETITION</p>
+🌱 PROJECTS & COMPETITION</p>
 
 
 - 2018 네이버 해커톤 결승 (40등 中 14등)
@@ -15,8 +25,7 @@
 
 
 <br>
-★ Language</p>
-
+🌱 Language</p>
 
 * Python (intermediate)
 * R (intermediate)
@@ -27,8 +36,8 @@
 
 
 <br>
-★ How to reach me 
+🌱 How to reach me 
 
-* <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
-* <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
+📫 <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
+💬 <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
 
