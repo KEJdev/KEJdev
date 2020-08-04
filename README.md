@@ -9,8 +9,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KEJdev&show_icons=true&theme=dark)
 
-
-
 <br>
 🌱 PROJECTS & COMPETITION</p>
 
@@ -20,7 +18,6 @@
 - Emotional Analysis (얼굴 감정 분석)
 - 흉부 X-ray 질병 분류
 - 신용대출에 따른 대출금상환 분석
-
 
 <br>
 🌱 Language</p>
@@ -32,9 +29,8 @@
 * Linux (beginner)
 * Go(beginner)
 
-
 <br>
-🌱 How to reach me 
+🌱 How to reach me
 
 📫 <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
 💬 <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
