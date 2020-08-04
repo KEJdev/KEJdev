@@ -1,5 +1,3 @@
-<h4>EUNJI KIM ♪</h4>
-
 ### Hi! I'm EUNJI  👋
 
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/HTML-262%20commits-palevioletred.svg" alt=""></a>
