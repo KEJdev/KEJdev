@@ -4,7 +4,7 @@
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/CSS-188%20commits-skyblue.svg" alt=""></a>
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Python-57%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/R-5%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/JavaScript-188%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/JavaScript-165%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Java-16%20commits-orange.svg" alt=""></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KEJdev&show_icons=true&theme=tokyonight)
