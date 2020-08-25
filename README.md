@@ -23,8 +23,8 @@
 
 * Python (intermediate)
 * R (intermediate)
-* JAVA (beginner)
 * SQL & PLSQL (intermediate)
+* JAVA (beginner)
 * Linux (beginner)
 * Go(beginner)
 
