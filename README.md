@@ -30,5 +30,4 @@
 🌱 How to reach me
 
 📫 <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
-💬 <a href="https://www.instagram.com/ao_ej125/">  https://www.instagram.com/ao_ej125/ </a>   <br>
 
