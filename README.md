@@ -24,7 +24,7 @@
 * SQL & PLSQL (intermediate)
 * JAVA (beginner)
 * Linux (beginner)
-* Go(beginner)
+
 
 <br>
 🌱 How to reach me
