@@ -10,7 +10,7 @@
 <br>
 🌱 PROJECTS & COMPETITION</p>
 
-- [2018 네이버 해커톤 결승 (40등 中 14등)]#(https://github.com/KEJdev/mandoo-model)  
+- [2018 네이버 해커톤 결승 (40등 中 14등)](https://github.com/KEJdev/mandoo-model)  
 - 2019 인공지능 R&D 그랜드 챌린지 대회 참여
 - [Emotional Analysis (얼굴 감정 분석)](https://github.com/KEJdev/emotional-analysis)
 - 흉부 X-ray 질병 분류
