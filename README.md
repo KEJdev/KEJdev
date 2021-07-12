@@ -8,6 +8,10 @@
 <a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Java-16%20commits-orange.svg" alt=""></a>
 
 <br>
+
+![snake gif](https://github.com/KEJdev/KEJdev/blob/output/github-contribution-grid-snake.gif)
+
+
 🌱 PROJECTS & COMPETITION</p>
 
 - [2018 네이버 해커톤 결승 (40등 中 14등)](https://github.com/KEJdev/mandoo-model)  
