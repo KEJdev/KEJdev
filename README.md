@@ -9,8 +9,6 @@
 
 <br>
 
-![snake gif](https://github.com/KEJdev/KEJdev/blob/output/github-contribution-grid-snake.gif)
-
 
 🌱 PROJECTS & COMPETITION</p>
 
@@ -21,17 +19,8 @@
 - 신용대출에 따른 대출금상환 분석
 
 <br>
-🌱 Language</p>
-
-* Python (intermediate)
-* R (intermediate)
-* SQL & PLSQL (intermediate)
-* JAVA (beginner)
-* Linux (beginner)
-
-
-<br>
 🌱 How to reach me
 
 📫 <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
 
+![snake gif](https://github.com/KEJdev/KEJdev/blob/output/github-contribution-grid-snake.gif)
