@@ -16,7 +16,8 @@
 - 2019 인공지능 R&D 그랜드 챌린지 대회 참여
 - [Emotional Analysis (얼굴 감정 분석)](https://github.com/KEJdev/emotional-analysis)
 - 흉부 X-ray 질병 분류
-- 신용대출에 따른 대출금상환 분석
+- 신용대출에 따른 대출금상환 분석  
+- 오픈소스 컨트리뷰션 Tidyverse 데이터 과학
 
 <br>
 🌱 How to reach me
