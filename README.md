@@ -17,7 +17,8 @@
 - [Emotional Analysis (얼굴 감정 분석)](https://github.com/KEJdev/emotional-analysis)
 - 흉부 X-ray 질병 분류
 - 신용대출에 따른 대출금상환 분석  
-- 오픈소스 컨트리뷰션 Tidyverse 데이터 과학
+- 오픈소스 컨트리뷰션 Tidyverse 데이터 과학  
+- OAI LAB 의료영상을 활용해 안과 질환의 치료 예후 예측 AI 모델 연구
 
 <br>
 🌱 How to reach me
