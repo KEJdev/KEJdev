@@ -1,26 +1,42 @@
-### Hi! I'm EUNJI  👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&auto&height=200&section=header&text=Hi!%20I'm%20EUNJI%20👋&animation=fadeIn&fontColor=00498c&fontSize=30)
 
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/HTML-262%20commits-palevioletred.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/CSS-188%20commits-skyblue.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Python-57%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/R-5%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/JavaScript-165%20commits-green.svg" alt=""></a>
-<a href="https://sourcerer.io/kejdev"><img src="https://img.shields.io/badge/Java-16%20commits-orange.svg" alt=""></a>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKEJdev&count_bg=%23D0D9F7&title_bg=%23D0D9F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
+
+<h3 align="center">🛠 Stack & Tool🛠</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</p>
+<br>
+<br>
+
+<br>
+<div align="center" style="text-align:center">
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0_0a)](https://solved.ac/0_0a)  
+[Git Blog](https://kejdev.github.io/)
+</dic>
+<br>
+<br>
 <br>
 
 
-🌱 PROJECTS & COMPETITION</p>
 
-- [2018 네이버 해커톤](https://github.com/KEJdev/mandoo-model)  
-- [Emotional Analysis (얼굴 감정 분석)](https://github.com/KEJdev/emotional-analysis)
-- 신용대출에 따른 대출금상환 분석  
-- 오픈소스 컨트리뷰션 Tidyverse 데이터 과학  
-- OAI LAB 의료영상을 활용해 안과 질환의 치료 예후 예측 AI 모델 연구
+<h3 align="center"> 🌱  How to reach me.. </h3>
 
-<br>
-🌱 How to reach me
-
-📫 <a href="mailto:kej12516@gmail.com">   kej12516@gmail.com  </a>   <br>
-
-![snake gif](https://github.com/KEJdev/KEJdev/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <a href= "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:kej12516@gmail.com"></a>&nbsp
+    <a href="mailto:kej12516@gmail.com"><img src= "https://img.shields.io/badge/-Gmail-red"></a>&nbsp
+    <a href="https://www.instagram.com/ao_ej125/"><img src= "https://img.shields.io/badge/-instagram%20-orange?logo=instagram?logoColor=orange"></a>&nbsp
+<p>
