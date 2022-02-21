@@ -21,12 +21,17 @@
 <br>
 <br>
 
-<br>
+<h3 align="center">✨ Project & Competition ✨</h3>
 <div align="center" style="text-align:center">
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0_0a)](https://solved.ac/0_0a)  
-[Git Blog](https://kejdev.github.io/)
-</dic>
+     안과 질환 예후 예측 AI모델 연구  
+     얼굴 감정 분석   
+     2018 네이버 해커톤  
+     2021 오픈소스 컨트리뷰션  
+  
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0_0a)](https://solved.ac/0_0a)  
+[Git Blog](https://kejdev.github.io/) -->
+</div>
 <br>
 <br>
 <br>
