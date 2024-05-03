@@ -6,7 +6,7 @@
   * MLOps
 * Interest
   * App - Echo ( ~ developing )
-    * Position : PM, Backend
+    * Position : Backend
   * Web - DongGeuRaMi ( ~ developing )
 
 <a href="https://github.com/devxb/gitanimals">
