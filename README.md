@@ -10,6 +10,12 @@
   * Web - DongGeuRaMi ( ~ developing )
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{KEJdev}?contribution-view=false" width="500" height="200" />
+<img
+  src="https://render.gitanimals.org/farms/KEJdev"
+  width="600"
+  height="300"
+/>
+</a>
+</a>
 </a>
 
